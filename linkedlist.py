@@ -72,3 +72,5 @@ loc = head
 while loc is not None:
     print(loc.data)
     loc = loc.next
+    
+    ##
